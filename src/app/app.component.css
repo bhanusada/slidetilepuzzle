@@ -1,0 +1,29 @@
+.outerblock {
+    display:inline-block;
+    border: 10px solid black;
+    height:500px;
+    width:500px;
+    background-color: darkgray;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    text-align: left;
+}
+
+.box {
+    display:inline-block;
+    height:90px;
+    width:90px;
+    background-color: darkred;
+    border:2px solid white;
+    margin: 3px;
+}
+
+.vbox {
+    display:inline-block;
+    height:90px;
+    width:90px;
+    background-color: darkgray;
+    border:2px solid darkgray;
+    margin: 3px;
+}
